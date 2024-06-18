@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+		"layer0": "item/combat/9",
+		"particle": "item/combat/9"
+    },
+    "display": {
+		"head": {
+			"rotation": [-90, 0, -45],
+			"translation": [8.35, -4.8, -6.7],
+			"scale": [1.37, 1.37, 1.37]
+		}
+	}
+}

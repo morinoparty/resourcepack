@@ -1,0 +1,22 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/baked_potato"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "item/dark_oak_trapdoor"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/food/jagamarukun_ice"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/food/chocolate2"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/food/modiva"},
+		{ "predicate": {"custom_model_data": 5}, "model": "item/food/moriji"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/food/mori_potato"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/food/ikayaki"},
+		{ "predicate": {"custom_model_data": 8}, "model": "item/food/banana-choco"},
+		{ "predicate": {"custom_model_data": 9}, "model": "item/food/bear-cotton-candy"},
+		{ "predicate": {"custom_model_data": 10}, "model": "item/food/budou-ame"},
+		{ "predicate": {"custom_model_data": 11}, "model": "item/food/yaki1"},
+		{ "predicate": {"custom_model_data": 12}, "model": "item/food/yaki2"},
+		{ "predicate": {"custom_model_data": 13}, "model": "item/food/yaki3"},
+		{ "predicate": {"custom_model_data": 14}, "model": "item/food/yaki4"}				
+	]
+}

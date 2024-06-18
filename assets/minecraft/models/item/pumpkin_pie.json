@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pumpkin_pie"
+    },
+    "overrides": [ 
+        {"predicate": {"custom_model_data": 1}, "model": "item/fish/stargazy_pie"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/food/halloween_cake"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/food/sakura_mochi"}
+    ]
+}

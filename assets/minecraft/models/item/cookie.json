@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/cookie"
+  },
+	"overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "item/food/santa_cookie"},
+    { "predicate": {"custom_model_data": 2}, "model": "item/food/gingerbread_man_cookie"},
+    { "predicate": {"custom_model_data": 3}, "model": "item/food/tapioka_milk"},
+    { "predicate": {"custom_model_data": 4}, "model": "item/food/moriya_cider"},
+    { "predicate": {"custom_model_data": 5}, "model": "item/food/melon_cider"},
+    { "predicate": {"custom_model_data": 6}, "model": "item/food/mori_cola"}
+	]
+}

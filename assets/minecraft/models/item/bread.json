@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bread"
+    },
+    "overrides": [ 
+        {"predicate": {"custom_model_data": 1}, "model": "item/fish/breadfish"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/food/omochi"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/food/sanshoku_dango"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/food/poppoyaki"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/food/kitune_udon"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/food/koyamayaki"}
+    ]
+}

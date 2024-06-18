@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+    "overrides": [
+        {"predicate": {"cast": 1},"model": "item/fishing_rod_cast"},
+        {"predicate": {"custom_model_data": 1},"model": "item/tools/mori_sao"},
+        {"predicate": {"custom_model_data": 1,"cast": 1}, "model": "item/tools/mori_sao_1"},
+        {"predicate": {"custom_model_data": 101},"model": "item/combat/tsuri_sao"},
+        {"predicate": {"custom_model_data": 101,"cast": 1}, "model": "item/combat/tsuri_sao_cast"},
+        {"predicate": {"custom_model_data": 102},"model": "item/tools/tsuri_sao_1"},
+        {"predicate": {"custom_model_data": 102,"cast": 1}, "model": "item/tools/tsuri_sao_cast_1"}    
+    
+    ]
+}

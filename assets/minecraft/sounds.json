@@ -1,0 +1,7 @@
+{
+    "custom.moripa-ondo": { "category": "master", "sounds": [ "custom/moripa-ondo" ]},
+    "custom.kane": { "category": "master", "sounds": [ "custom/kane" ]},
+    "custom.kkkane": { "category": "master", "sounds": [ "custom/kkkane" ]},
+    "custom.breadfish": { "category": "master", "sounds": [ "custom/breadfish" ]}
+
+}

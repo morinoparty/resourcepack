@@ -1,0 +1,49 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/feather"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 45 ],
+            "translation": [ -1, 13, 7],
+            "scale":[ 1, 1, 1]
+        }
+    },
+
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/hat/yahi_omen"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/hat/uni_omen"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/hat/mon_omen"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/hat/maca_omen"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/hat/fox_omen"},
+        { "predicate": {"custom_model_data": 6}, "model": "item/hat/santa_hat"},
+        { "predicate": {"custom_model_data": 7}, "model": "item/interi/kadomatsu"},
+        { "predicate": {"custom_model_data": 8}, "model": "item/trophy/vote-trophy"},
+        { "predicate": {"custom_model_data": 9}, "model": "item/trophy/choco-hunter"},
+        { "predicate": {"custom_model_data": 10}, "model": "item/interi/bonsai"},
+        { "predicate": {"custom_model_data": 11}, "model": "item/hat/gray_omen"},
+        { "predicate": {"custom_model_data": 12}, "model": "item/hands/shinbunshi"},
+        { "predicate": {"custom_model_data": 13}, "model": "item/interi/chouchin"},
+        { "predicate": {"custom_model_data": 14}, "model": "item/ticket/tier-one-ticket"},
+        { "predicate": {"custom_model_data": 15}, "model": "item/ticket/tier-two-ticket"},
+        { "predicate": {"custom_model_data": 16}, "model": "item/ticket/tier-three-ticket"},
+        { "predicate": {"custom_model_data": 17}, "model": "item/hat/hyottoko_omen"},
+        { "predicate": {"custom_model_data": 18}, "model": "item/hat/obake_omen"},
+        { "predicate": {"custom_model_data": 19}, "model": "item/hat/okame_omen"},
+        { "predicate": {"custom_model_data": 20}, "model": "item/hat/mugiwaraboushi"},
+        { "predicate": {"custom_model_data": 21}, "model": "item/interi/risu"},
+        { "predicate": {"custom_model_data": 22}, "model": "item/hat/donguri-hat"},
+        { "predicate": {"custom_model_data": 23}, "model": "item/interi/lamp"},
+        { "predicate": {"custom_model_data": 24}, "model": "item/hat/schnorchel"},
+        { "predicate": {"custom_model_data": 25}, "model": "item/interi/summerball"},
+        { "predicate": {"custom_model_data": 26}, "model": "item/hat/kumiwakebousi"},
+        { "predicate": {"custom_model_data": 27}, "model": "item/interi/cauldron-1"},
+        { "predicate": {"custom_model_data": 28}, "model": "item/interi/cauldron-2"},
+        { "predicate": {"custom_model_data": 29}, "model": "item/interi/winterball"},
+        { "predicate": {"custom_model_data": 30}, "model": "item/interi/fu-lin"},
+        { "predicate": {"custom_model_data": 31}, "model": "item/interi/senkou"},
+        { "predicate": {"custom_model_data": 32}, "model": "item/interi/butasenkou"}
+        
+    ]
+}

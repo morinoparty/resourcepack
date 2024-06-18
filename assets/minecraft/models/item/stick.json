@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [ 
+      {"predicate": {"custom_model_data": 1}, "model": "item/combat/1"},
+      {"predicate": {"custom_model_data": 2}, "model": "item/combat/2"},
+      {"predicate": {"custom_model_data": 3}, "model": "item/combat/3"},
+      {"predicate": {"custom_model_data": 4}, "model": "item/combat/4"},
+      {"predicate": {"custom_model_data": 5}, "model": "item/combat/5"},
+      {"predicate": {"custom_model_data": 6}, "model": "item/combat/6"},
+      {"predicate": {"custom_model_data": 7}, "model": "item/combat/7"},
+      {"predicate": {"custom_model_data": 8}, "model": "item/combat/8"},
+      {"predicate": {"custom_model_data": 9}, "model": "item/combat/9"},
+      {"predicate": {"custom_model_data": 10}, "model": "item/combat/10"}
+
+    
+   ]
+}

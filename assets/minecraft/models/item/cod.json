@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cod"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/fish/red_jelly_fish"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/fish/alaskan_pink_shrimp"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/fish/anchovy"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/fish/japanese_horse_mackerel"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/fish/blue_mackerel"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/fish/herring"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/fish/marbled_rockfish"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/fish/acanthogobius_flavimanus"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/fish/sillago_japonica"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/fish/thread_sail_filefish"},
+        {"predicate": {"custom_model_data": 101}, "model": "item/fish/bigfin_reef_squid"},
+        {"predicate": {"custom_model_data": 102}, "model": "item/fish/luna_lionfish"},
+        {"predicate": {"custom_model_data": 103}, "model": "item/fish/marbled_sole"},
+        {"predicate": {"custom_model_data": 104}, "model": "item/fish/red_seabream"},
+        {"predicate": {"custom_model_data": 105}, "model": "item/fish/black_seabream"},
+        {"predicate": {"custom_model_data": 106}, "model": "item/fish/japanese_seabass"},
+        {"predicate": {"custom_model_data": 1001}, "model": "item/fish/white_trevally"},
+        {"predicate": {"custom_model_data": 1002}, "model": "item/fish/giant_trevally"},
+        {"predicate": {"custom_model_data": 1003}, "model": "item/fish/common_dolphinfish"},
+        {"predicate": {"custom_model_data": 10001}, "model": "item/fish/black_marlin"},
+        {"predicate": {"custom_model_data": 10002}, "model": "item/fish/bluefish_tuna"},
+        {"predicate": {"custom_model_data": 10003}, "model": "item/fish/shortfin_mako_shark"},
+        {"predicate": {"custom_model_data": 100001}, "model": "item/fish/pygmy_right_whale"},
+        {"predicate": {"custom_model_data": 100002}, "model": "item/fish/sacabambaspis"}
+    ]
+}

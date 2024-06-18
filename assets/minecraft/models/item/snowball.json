@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/snowball"
+  },
+  "overrides": [ 
+      {"predicate": {"custom_model_data": 1}, "model": "item/hands/water-b-1"},
+      {"predicate": {"custom_model_data": 2}, "model": "item/hands/water-b-2"},
+      {"predicate": {"custom_model_data": 3}, "model": "item/hands/water-b-3"},
+      {"predicate": {"custom_model_data": 4}, "model": "item/hands/water-b-4"},
+      {"predicate": {"custom_model_data": 10}, "model": "item/ball/moripa_ball"},
+      {"predicate": {"custom_model_data": 11}, "model": "item/ball/aqua_ball"},
+      {"predicate": {"custom_model_data": 12}, "model": "item/ball/hanabi_ball"},
+      {"predicate": {"custom_model_data": 13}, "model": "item/ball/crystal_ball"}
+
+    
+   ]
+}

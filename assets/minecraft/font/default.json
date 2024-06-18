@@ -1,0 +1,493 @@
+{
+	"providers": [	
+
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/money.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE000"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/risu.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE001"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/steve.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE002"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/creeper.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE003"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/moripa.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE004"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/tab_greenbar.png",
+			"height": 16,
+			"ascent": 7,
+			"chars": [
+				"\uE005"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/tab_logo.png",
+			"height": 16,
+			"ascent": 16,
+			"chars": [
+				"\uE006"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/fish_book.png",
+			"height": 140,
+			"ascent": 22,
+			"chars": [
+				"\uE007"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/a_fishing_rod_someone_dropped.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE010"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/a_wooden_axe_someone_dropped.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE011"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/breadfish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE012"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/magikarp.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE013"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/sponge_bob.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE014"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/stargazy_pie.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE015"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/the_earth.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE016"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/acanthogobius_flavimanus.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE060"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/alaskan_pink_shrimp.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE061"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/anchovy.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE062"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/ayu_sweetfish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE063"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/blue_mackerel.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE064"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/herring.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE065"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/japanese_horse_mackerel.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE066"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/marbled_rockfish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE067"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/red_jelly_fish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE068"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/sillago_japonica.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE069"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/thread_sail_filefish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE06A"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/bigfin_reef_squid.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0A0"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/black_seabream.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0A1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/japanese_seabass.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0A2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/luna_lionfish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0A3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/marbled_sole.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0A4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/red_seabream.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0A5"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/atlantic_salmon.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0f0"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/clown_anemonefish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0f1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/common_dolphinfish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0f2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/giant_trevally.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0f3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/porcupinefish.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0f4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/white_trevally.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0f5"
+			]
+		},
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/black_marlin.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE140"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/blue_mackerel_fillet.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE141"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/blue_mackerel_head.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE142"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/blue_mackerel_tail.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE143"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/bluefish_tuna.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE144"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/pygmy_right_whale.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE145"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/shortfin_mako_shark.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE146"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/fox9003.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE190"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/golden_uniza.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE191"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/gray_wizard.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE192"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/macaroni_penguin.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE193"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/monn_totto.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE194"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/sacabambaspis_font.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE195"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/super_yahiro.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE196"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/uni.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE197"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/yahiro.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE198"
+			]
+		}
+	]
+}

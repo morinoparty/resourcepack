@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honeycomb"
+  },
+  "overrides": [ 
+      { "predicate": {"custom_model_data": 1}, "model": "item/hands/yo-yo1"},
+      { "predicate": {"custom_model_data": 2}, "model": "item/hands/yo-yo2"},
+      { "predicate": {"custom_model_data": 3}, "model": "item/hands/yo-yo3"},
+      { "predicate": {"custom_model_data": 4}, "model": "item/guis/buttons"},
+      { "predicate": {"custom_model_data": 5}, "model": "item/guis/close_button"},
+      { "predicate": {"custom_model_data": 6}, "model": "item/guis/commands"},
+      { "predicate": {"custom_model_data": 7}, "model": "item/guis/guide_book"},
+      { "predicate": {"custom_model_data": 8}, "model": "item/guis/links"},
+      { "predicate": {"custom_model_data": 9}, "model": "item/guis/mails"},
+      { "predicate": {"custom_model_data": 10}, "model": "item/guis/oshirase"},
+      { "predicate": {"custom_model_data": 11}, "model": "item/guis/otoiawase"}
+    ]
+}

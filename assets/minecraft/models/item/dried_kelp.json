@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/dried_kelp"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/food/shaved_ice"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/food/shaved_ice_urchin"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/food/shaved_ice_berry"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/food/shaved_ice_macha"}, 
+        { "predicate": {"custom_model_data": 5}, "model": "item/food/mori-cotton-candy"}, 
+        { "predicate": {"custom_model_data": 6}, "model": "item/food/shaved_ice_cup"}, 
+        { "predicate": {"custom_model_data": 7}, "model": "item/food/shaved_ice_ice"}, 
+        { "predicate": {"custom_model_data": 8}, "model": "item/food/barmblack"},
+        { "predicate": {"custom_model_data": 9}, "model": "item/food/shaved_ice_seiju"}
+    ]
+}

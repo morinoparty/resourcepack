@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/salmon"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/fish/atlantic_salmon"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/fish/char"},
+        {"predicate": {"custom_model_data": 1000001}, "model": "item/fish/ayu_sweetfish"}
+        
+    ]
+}
