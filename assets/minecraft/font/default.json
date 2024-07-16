@@ -1,7 +1,5 @@
 {
 	"providers": [	
-
-
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/money.png",
@@ -488,6 +486,10 @@
 			"chars": [
 				"\uE198"
 			]
+		},
+		{
+			"type": "reference",
+			"id": "space:default"
 		}
 	]
 }
