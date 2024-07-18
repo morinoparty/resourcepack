@@ -1,7 +1,5 @@
 {
-	"providers": [	
-
-
+	"providers": [
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/money.png",
@@ -229,6 +227,33 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:item/fish/stingray.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE070"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/crab.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE071"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/blue_tang.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE072"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:item/fish/thread_sail_filefish.png",
 			"height": 9,
 			"ascent": 9,
@@ -344,6 +369,16 @@
 				"\uE0f5"
 			]
 		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/spotted_garden_eel.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE0f6"
+			]
+		},
+
 
 		{
 			"type": "bitmap",
@@ -406,6 +441,15 @@
 			"ascent": 9,
 			"chars": [
 				"\uE146"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fish/ponyo.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"\uE147"
 			]
 		},
 		{
