@@ -532,6 +532,11 @@
 			"chars": [
 				"\uE198"
 			]
+		},
+		{
+			"credit": "Includes Negative Space Font Copyright (c) 2020 AmberW licensed under Creative Commons Attribution 4.0 International",
+			"type": "reference",
+			"id": "space:default"
 		}
 	]
 }
