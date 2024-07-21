@@ -8,6 +8,8 @@
       {"predicate": {"custom_model_data": 2}, "model": "item/ticket/login-ticket"},
       {"predicate": {"custom_model_data": 3}, "model": "item/combat/inarinomaekake"},
       {"predicate": {"custom_model_data": 4}, "model": "item/ticket/daily-quest-ticket"},
-      {"predicate": {"custom_model_data": 5}, "model": "item/ticket/stamprally"}
-   ]
-  }
+      {"predicate": {"custom_model_data": 5}, "model": "item/ticket/stamprally"},
+      {"predicate": {"custom_model_data": 6}, "model": "item/ticket/syateki-easy-ticket"},
+      {"predicate": {"custom_model_data": 7}, "model": "item/ticket/syateki-hard-ticket"}
+  ]
+}
