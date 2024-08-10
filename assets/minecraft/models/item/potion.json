@@ -5,7 +5,6 @@
         "layer1": "item/potion"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1}, "model": "item/food/pikapika_potion"},
-        {"predicate": {"custom_model_data": 2}, "model": "item/food/tapoika_milk"}
+        {"predicate": {"custom_model_data": 1}, "model": "item/food/pikapika_potion"}
     ]
 }
