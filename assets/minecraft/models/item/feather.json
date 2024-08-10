@@ -47,6 +47,7 @@
         { "predicate": {"custom_model_data": 33}, "model": "item/fish/ponyo"},
         { "predicate": {"custom_model_data": 34}, "model": "item/trophy/archery-trophy"},
         { "predicate": {"custom_model_data": 35}, "model": "item/interi/hibiscus"},
-        { "predicate": {"custom_model_data": 36}, "model": "item/hat/kina_omen"}
+        { "predicate": {"custom_model_data": 36}, "model": "item/hat/kina_omen"},
+        { "predicate": {"custom_model_data": 37}, "model": "item/trophy/build-contest-trophy"}
     ]
 }
