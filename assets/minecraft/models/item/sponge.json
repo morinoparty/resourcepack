@@ -1,4 +1,0 @@
-{
-    "parent": "block/sponge",
-    "overrides": [ {"predicate": {"custom_model_data": 1}, "model": "item/fish/sponge_bob"} ]
-}
