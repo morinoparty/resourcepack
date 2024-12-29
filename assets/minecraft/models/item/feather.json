@@ -49,6 +49,7 @@
         { "predicate": {"custom_model_data": 35}, "model": "item/interi/hibiscus"},
         { "predicate": {"custom_model_data": 36}, "model": "item/hat/kina_omen"},
         { "predicate": {"custom_model_data": 37}, "model": "item/trophy/build-contest-trophy"},
-        { "predicate": {"custom_model_data": 38}, "model": "item/interi/reindeer"}
+        { "predicate": {"custom_model_data": 38}, "model": "item/interi/reindeer"},
+        { "predicate": {"custom_model_data": 39}, "model": "item/hat/partyglass"}
     ]
 }
