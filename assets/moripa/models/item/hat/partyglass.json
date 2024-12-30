@@ -1,9 +1,9 @@
 {
 	"credit": "with Blockbench by Macapen",
 	"textures": {
-		"1": "item/hat/partyglass",
-		"2": "item/hat/partyglass_frame",
-		"particle": "item/hat/partyglass_frame"
+		"1": "moripa:item/hat/partyglass",
+		"2": "moripa:item/hat/partyglass_frame",
+		"particle": "moripa:item/hat/partyglass_frame"
 	},
 	"elements": [
 		{

@@ -272,6 +272,13 @@
           "type": "minecraft:model",
           "model": "moripa:item/interi/reindeer"
         }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/hat/partyglass"
+        }
       }
     ]
   }
