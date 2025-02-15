@@ -55,6 +55,13 @@
           "type": "minecraft:model",
           "model": "moripa:item/ticket/syateki-hard-ticket"
         }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/ticket/heart_pink_ticket"
+        }
       }
     ]
   }

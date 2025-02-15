@@ -2,9 +2,9 @@
 	"credit": "with Blockbench by Macapen",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/hat/woollen_hat_beige",
-		"2": "item/hat/snowflake",
-		"particle": "item/hat/woollen_hat_beige"
+		"1": "moripa:item/hat/woollen_hat_red",
+		"2": "moripa:item/hat/snowflake",
+		"particle": "moripa:item/hat/woollen_hat_red"
 	},
 	"elements": [
 		{

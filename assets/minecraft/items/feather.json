@@ -279,6 +279,27 @@
           "type": "minecraft:model",
           "model": "moripa:item/hat/partyglass"
         }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/hat/woollen_hat_beige"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/hat/woollen_hat_blue"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/hat/woollen_hat_red"
+        }
       }
     ]
   }
