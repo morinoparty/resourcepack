@@ -300,6 +300,27 @@
           "type": "minecraft:model",
           "model": "moripa:item/hat/woollen_hat_red"
         }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/hat/black_nekomimi"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/hat/orange_nekomimi"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/hat/rainbow_nekomimi"
+        }
       }
     ]
   }
