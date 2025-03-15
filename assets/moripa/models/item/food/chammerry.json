@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "moripa:item/food/chammerry",
+        "layer1": "moripa:item/food/chammerry"
+    },
+    "display": {
+        "head": {
+            "rotation": [90, 0, 0],
+			"translation": [0.0, -4.5, -12.0],
+			"scale": [1.0, 1.0, 1.0]
+        }
+    }
+}

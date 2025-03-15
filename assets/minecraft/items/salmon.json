@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/salmon"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/fish/atlantic_salmon"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/fish/char"
+        }
+      },
+      {
+        "threshold": 1000001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "moripa:item/fish/ayu_sweetfish"
+        }
+      }
+    ]
+  }
+}

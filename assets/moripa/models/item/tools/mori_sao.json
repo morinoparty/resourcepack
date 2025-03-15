@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "moripa:item/tools/mori_sao"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "moripa:item/fishing_rod_cast"
+        }
+    ]
+}
