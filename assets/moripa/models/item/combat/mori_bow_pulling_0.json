@@ -1,0 +1,6 @@
+{
+    "parent": "moripa:item/combat/mori_bow",
+    "textures": {
+      "layer0": "moripa:item/combat/mori_bow_pulling_0"
+    }
+  }

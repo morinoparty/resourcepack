@@ -1,0 +1,6 @@
+{
+    "parent": "moripa:item/combat/ichii_bow",
+    "textures": {
+      "layer0": "moripa:item/combat/ichii_bow_pulling_2"
+    }
+  }
