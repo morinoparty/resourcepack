@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench by kina",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "moripa:item/tools/mori_shovel_eme"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-5, 90, 45],
+			"translation": [0, 5.25, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [5, -90, -45],
+			"translation": [0, 5.25, 2.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-25, 90, 0],
+			"translation": [6.5, 0, -4.75]
+		}
+	}
+}
