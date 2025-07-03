@@ -1,0 +1,31 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "moripa:item/hat/moricap"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "moripa:item/hat/pickaxe_badge1"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "moripa:item/hat/pickaxe_badge2"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "moripa:item/hat/pickaxe_badge3"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "moripa:item/hat/pickaxe_badge4"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "moripa:item/hat/pickaxe_badge5"
+      }
+    ]
+  }
+}
