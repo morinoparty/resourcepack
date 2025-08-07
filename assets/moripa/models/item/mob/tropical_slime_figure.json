@@ -1,0 +1,128 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Macapen",
+	"texture_size": [24, 24],
+	"textures": {
+		"0": "moripa:item/mob/tropical_slime",
+		"1": "moripa:item/mob/tropical_slime_anime"
+	},
+	"elements": [
+		{
+			"name": "me",
+			"from": [9.3, 4, 4.5],
+			"to": [11.3, 6, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 10, 14, 11], "texture": "#0"},
+				"east": {"uv": [12, 10, 13, 11], "texture": "#0"},
+				"south": {"uv": [15, 10, 16, 11], "texture": "#0"},
+				"west": {"uv": [14, 10, 15, 11], "texture": "#0"},
+				"up": {"uv": [14, 10, 13, 9], "texture": "#0"},
+				"down": {"uv": [15, 9, 14, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "me",
+			"from": [4.7, 4, 4.5],
+			"to": [6.7, 6, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 12, 14, 13], "texture": "#0"},
+				"east": {"uv": [12, 12, 13, 13], "texture": "#0"},
+				"south": {"uv": [15, 12, 16, 13], "texture": "#0"},
+				"west": {"uv": [14, 12, 15, 13], "texture": "#0"},
+				"up": {"uv": [14, 12, 13, 11], "texture": "#0"},
+				"down": {"uv": [15, 11, 14, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "kuti",
+			"from": [7, 2, 4.5],
+			"to": [8, 3, 5.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [12.5, 13.5, 13, 14], "texture": "#0"},
+				"east": {"uv": [12, 13.5, 12.5, 14], "texture": "#0"},
+				"south": {"uv": [13.5, 13.5, 14, 14], "texture": "#0"},
+				"west": {"uv": [13, 13.5, 13.5, 14], "texture": "#0"},
+				"up": {"uv": [13, 13.5, 12.5, 13], "texture": "#0"},
+				"down": {"uv": [13.5, 13, 13, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "kao",
+			"from": [5, 1, 5],
+			"to": [11, 7, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"east": {"uv": [8, 8, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"west": {"uv": [8, 0, 16, 8], "texture": "#1"},
+				"up": {"uv": [6, 14, 0, 8], "texture": "#0"},
+				"down": {"uv": [12, 14, 6, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "karada",
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 8], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 8], "texture": "#0"},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#0"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [80, -5, 0],
+			"translation": [0.6, -1.25, 3.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -10, 0],
+			"translation": [0.75, -2, 15.25],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_righthand": {
+			"translation": [1.25, 6.25, 0],
+			"scale": [0.65, 0.65, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [126, 54, -161],
+			"translation": [0.25, 5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 12.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"rotation": [10, 172.5, 0],
+			"translation": [0.25, 5.75, 0],
+			"scale": [1.45, 1.45, 1.45]
+		},
+		"head": {
+			"translation": [0, 15.4, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -24],
+			"scale": [3, 3, 3]
+		}
+	},
+	"groups": [
+		{
+			"name": "root",
+			"origin": [8, 24, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}
