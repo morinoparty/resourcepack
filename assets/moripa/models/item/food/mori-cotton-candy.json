@@ -1,13 +1,22 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "moripa:item/food/mori-cotton-candy"
-    },
-    "display": {
-        "head": {
-            "rotation": [0, 0, 0],
-			"translation": [0.0, 8.0, 0.0],
-			"scale": [1.0, 1.0, 1.0]
-        }
-    }
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Macapen",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "moripa:item/food/mori-cotton-candy"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [4.25, 4.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -80],
+			"translation": [3.75, 4.5, -0.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 8, 0]
+		}
+	}
 }

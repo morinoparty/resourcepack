@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by kina",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "moripa:item/food/ice_choco_bar"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [3.25, 3.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -90],
+			"translation": [3.25, 3.25, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 100, 0],
+			"translation": [5, 1.75, -4.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -100, 0],
+			"translation": [5, 1.75, -4.5]
+		},
+		"gui": {
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"scale": [1.7, 1.7, 1.7]
+		}
+	}
+}
