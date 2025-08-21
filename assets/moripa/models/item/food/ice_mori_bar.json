@@ -5,6 +5,7 @@
 	"textures": {
 		"layer0": "moripa:item/food/ice_mori_bar"
 	},
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [3.25, 3.25, 0]
@@ -23,6 +24,11 @@
 		},
 		"gui": {
 			"scale": [1.4, 1.4, 1.4]
+		},
+		"head": {
+			"rotation": [90, 0, 45],
+			"translation": [0, -5.6, -8.75],
+			"scale": [0.66, 0.66, 0.33]
 		},
 		"fixed": {
 			"scale": [1.7, 1.7, 1.7]
