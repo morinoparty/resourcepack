@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by kina",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "moripa:item/food/ice_mopico_double"
+	},
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [-25, -73, 0],
+			"translation": [0.5, 2.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

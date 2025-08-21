@@ -1,13 +1,27 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "moripa:item/food/bear-cotton-candy"
-    },
-    "display": {
-        "head": {
-            "rotation": [0, 0, 0],
-			"translation": [0.0, 8.0, -4.0],
-			"scale": [1.0, 1.0, 1.0]
-        }
-    }
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Macapen",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "moripa:item/food/bear-cotton-candy"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [4.75, 4.75, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -90],
+			"translation": [5.25, 4.75, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-16, 0, 24],
+			"translation": [0, 3, 0]
+		},
+		"head": {
+			"translation": [8.75, 8.75, -4]
+		},
+		"fixed": {
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
 }

@@ -1,13 +1,20 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "moripa:item/food/budou-ame"
-    },
-    "display": {
-        "head": {
-            "rotation": [0, 0, 0],
-			"translation": [0.0, 8.0, -4.0],
-			"scale": [1.0, 1.0, 1.0]
-        }
-    }
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Macapen",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "moripa:item/food/budou-ame"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [4, 3.75, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -90],
+			"translation": [4, 3.75, 0]
+		},
+		"head": {
+			"translation": [0, 8, -4]
+		}
+	}
 }
