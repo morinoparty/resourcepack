@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by kina",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "moripa:item/tools/mori_hoe"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [4, -90, 45],
+			"translation": [0, 7, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [8, 90, -45],
+			"translation": [0, 6, 2.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-12, -73, 27],
+			"translation": [0.75, 4.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-25, 90, 0],
+			"translation": [4.5, 3.75, -4.75],
+			"scale": [1.29, 1.29, 1.29]
+		},
+		"ground": {
+			"rotation": [0, 180, 0]
+		},
+		"head": {
+			"rotation": [180, 1, -30],
+			"translation": [5.25, 10.75, -4]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}
