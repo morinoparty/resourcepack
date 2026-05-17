@@ -532,10 +532,6 @@
 			"chars": [
 				"\uE198"
 			]
-		},
-		{
-			"type": "reference",
-			"id": "space:default"
 		}
 	]
 }
