@@ -1,0 +1,30 @@
+{
+  "moripa.font.space.1": "\uE000",
+  "moripa.font.space.2": "\uE001",
+  "moripa.font.space.4": "\uE002",
+  "moripa.font.space.8": "\uE003",
+  "moripa.font.space.16": "\uE004",
+  "moripa.font.space.32": "\uE005",
+  "moripa.font.space.64": "\uE006",
+  "moripa.font.space.128": "\uE007",
+
+  "moripa.font.space.10": "\uE001\uE003",
+
+  "moripa.font.space.24": "\uE003\uE004",
+  "moripa.font.space.48": "\uE004\uE005",
+
+
+  "moripa.font.space.-1": "\uF000",
+  "moripa.font.space.-2": "\uF001",
+  "moripa.font.space.-4": "\uF002",
+  "moripa.font.space.-8": "\uF003",
+  "moripa.font.space.-16": "\uF004",
+  "moripa.font.space.-32": "\uF005",
+  "moripa.font.space.-64": "\uF006",
+  "moripa.font.space.-128": "\uF007",
+
+  "moripa.font.space.-10": "\uF001\uF003",
+
+  "moripa.font.space.-24": "\uF003\uF004",
+  "moripa.font.space.-48": "\uF004\uF005"
+}
